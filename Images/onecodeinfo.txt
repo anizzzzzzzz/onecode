@@ -1,0 +1,6 @@
+
+One Code is an online key manager tool that completely eliminates the hassles of managing pass codes for our various accounts. It is a one stop-one key gateway to unlocking our digital world. Users can store their login credentials on One Code and get access to their accounts with just one pass code or just simple tap in of their finger. All the credentials are stored in encrypted manner.
+
+One Code also uses combination of biometrics and cryptography  .The users can also access or easily login to their accounts using their fingerprint, hence completely eliminating the need to remembering passcodes. From there, the app works quietly in the background to make your current passwords stronger, remember them and instantly logs you in- so you don’t have to .One Code can also be used to generate secure passcodes either from the predefined master passcode or biometrics(Finger Print) for their new accounts .
+
+This app also offers customizable security so you can log in with one factor for fast access or combine multiple factors together fir added security .In this way, user do not even need to create and remember a complex passcode. 
