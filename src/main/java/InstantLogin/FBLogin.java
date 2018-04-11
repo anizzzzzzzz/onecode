@@ -22,7 +22,7 @@ public class FBLogin implements Login
     @Override
     public void login(String username, String password,int i) throws InterruptedException
     {
-       System.setProperty("webdriver.gecko.driver","driver/geckodriver");
+       System.setProperty("webdriver.chrome.driver","driver/chromedriver.exe");
        
       driver.manage().window().maximize();
       
